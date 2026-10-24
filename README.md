@@ -2,6 +2,14 @@
 
 This project containerizes a PowerShell script that audits Azure Monitor Deployment Workbooks across multiple subscriptions, extracts KQL and Azure Resource Graph (ARG) queries, enriches them with AI-generated descriptions, and uploads results to Azure Storage.
 
+<!-- project-downloads:start -->
+## APK and installer downloads
+
+No packaged APK or desktop installer is currently published for this repository. The source archive below is not an installer; use the project-specific setup and build instructions.
+
+- [Download the complete source ZIP](https://github.com/jwgmpi-wolff/queriesEnrichment/archive/refs/heads/main.zip).
+<!-- project-downloads:end -->
+
 ## 🎯 Overview
 
 The application provides an end-to-end audit pipeline for Azure Monitor workbooks with:
@@ -373,3 +381,9 @@ For issues and questions:
 **Last Updated**: April 2, 2026  
 **Version**: 2.0  
 **Status**: Production Ready
+
+## Copyright
+
+Copyright (c) 2026 Jerry Wolff. See [COPYRIGHT](COPYRIGHT) for the scope of this
+notice. Existing licenses and third-party attribution remain unchanged; this
+notice does not grant additional permissions.
